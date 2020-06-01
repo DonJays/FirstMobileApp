@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: DonJays UNIX !!
 Description: "Taste of UNIX... !"
+github:
+  is_project_page: false
