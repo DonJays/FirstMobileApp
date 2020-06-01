@@ -1,5 +1,6 @@
 # **UNIX**
-## **UNIX Essentials – 4-5 hours**
+
+## ** [UNIX Essentials – 4-5 hours] **
 ### - Getting Started – 1 Hour ###
 > * [_UNIX_ _Operating_ _System_]
 > -* [_Help Whatis, man, man -k_]
@@ -24,7 +25,8 @@
  [$Head, $tail, $cut, $sort, $uniq, $tr, $grep]
 ```
 
-## **UNIX Intermediate – 4-5 hours**
+
+## ** [UNIX Intermediate – 4-5 hours] **
 ### - Regular Expressions – 1 hour###
 
 ### - Advance file filters – 1 hour###
@@ -42,6 +44,7 @@
  [$Ps, $ps -ef, $kill/ $kill -8]
 ```
 
-## **UNIX - Advanced – 6-8 Hours**
+
+## ** [UNIX - Advanced – 6-8 Hours] **
 ### - Essential Shell Scripting – 3 hours###
 ### - Essential Awk – 3 hours###
