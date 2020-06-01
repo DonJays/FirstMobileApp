@@ -1,7 +1,7 @@
 # **UNIX**
 ## **UNIX Essentials – 4-5 hours**
--###Getting Started – 1 Hour###
--_UNIX Operating System_
+###-Getting Started – 1 Hour-###
+-_UNIX_ _Operating_ _System_
 -_Help Whatis, man, man -k_
 -_General Purpose commands_
 
